@@ -2,7 +2,7 @@
 
 <schedule id="1">
   <id>728712736838308</id>
-  <name>Schedule</name>
+  <name>Schedule_Sync</name>
   <blockJob id="2">
     <block class="com.kapowtech.scheduler.server.entity.SequentialBlock" id="3">
       <project id="4"/>
@@ -44,7 +44,7 @@
     <displayNameMap>{"0Robots/test_Git_Sync_3":"Robots/test_Git_Sync_3"}</displayNameMap>
   </blockJob>
   <totalRuns>0</totalRuns>
-  <active>false</active>
+  <active>true</active>
   <useEmailNotification>false</useEmailNotification>
   <nextRun id="10">2021-09-04 18:50:00.0 UTC</nextRun>
   <maxRuntime>-1</maxRuntime>
